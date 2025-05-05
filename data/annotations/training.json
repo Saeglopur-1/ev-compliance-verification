@@ -1,0 +1,10 @@
+[
+    {
+        "text": "According to Regulation (EU) 2019/631, CO2 emissions must not exceed 95g/km for passenger cars",
+        "entities": [
+            {"start": 18, "end": 38, "label": "CERTIFICATION"},
+            {"start": 52, "end": 60, "label": "EMISSION"},
+            {"start": 80, "end": 87, "label": "EMISSION"}
+        ]
+    }
+]
